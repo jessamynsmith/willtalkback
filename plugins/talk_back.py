@@ -6,7 +6,8 @@ from will.decorators import respond_to
 
 class TalkBackPlugin(WillPlugin):
 
-    QUOTES_URL = "https://underquoted.herokuapp.com/api/v2/quotations/?random=true&limit=1"
+    QUOTES_URL = ("https://underquoted.herokuapp.com/api/v2/quotations/"
+                  "?random=true&limit=1")
 
     def get_quote(self):
         quote = None
