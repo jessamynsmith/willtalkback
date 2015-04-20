@@ -5,6 +5,8 @@ willtalkback
 [![Coverage Status](https://coveralls.io/repos/jessamynsmith/willtalkback/badge.svg?branch=master)](https://coveralls.io/r/jessamynsmith/willtalkback?branch=master)
 
 will plugin for talkbackbot
+This was just a proof of concept; the real code lives at:
+https://github.com/skoczen/will/blob/master/will/plugins/friendly/talk_back.py
 
 
 Development
