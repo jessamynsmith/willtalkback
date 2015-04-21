@@ -1,7 +1,7 @@
 willtalkback
 ============
 
-[![Build Status](https://travis-ci.org/jessamynsmith/willtalkback.svg?branch=master)](https://travis-ci.org/jessamynsmith/willtalkback)
+[![Build Status](https://circleci.com/gh/jessamynsmith/willtalkback.svg?style=shield)](https://circleci.com/gh/jessamynsmith/willtalkback)
 [![Coverage Status](https://coveralls.io/repos/jessamynsmith/willtalkback/badge.svg?branch=master)](https://coveralls.io/r/jessamynsmith/willtalkback?branch=master)
 
 will plugin for talkbackbot
